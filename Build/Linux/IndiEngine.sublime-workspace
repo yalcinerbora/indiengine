@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ptr",
+				"relativePtrLocation"
+			],
+			[
+				"relat",
+				"relativePtrLocation"
+			],
+			[
+				"IEFileE",
+				"IEFileErrorType"
+			],
+			[
+				"buffer",
+				"bufferSize"
+			],
+			[
+				"rem",
+				"remainingFile"
+			],
+			[
+				"actu",
+				"actualAmount"
+			],
+			[
+				"gtest",
+				"gtestFilter"
+			],
+			[
+				"gT",
+				"gtestOptions"
+			],
+			[
+				"buf",
+				"bufferIndex"
+			],
+			[
+				"Button",
+				"ButtonCodeToIndex"
+			],
+			[
+				"IEInpu",
+				"IEInput"
+			],
+			[
+				"IEInput",
+				"IEInputType"
+			],
+			[
+				"print",
+				"printListener"
+			],
+			[
+				"en",
+				"enterPressed"
+			],
+			[
+				"IEIn",
+				"IEInputEvent"
+			],
+			[
+				"Input",
+				"InputListener"
+			],
+			[
+				"IEU",
+				"IEUInt16"
+			],
+			[
+				"IEInp",
+				"IEInputLINUX"
+			],
+			[
+				"W",
+				"wait"
+			],
+			[
+				"EXEC",
+				"EXEC_COMMAND"
+			],
+			[
+				"TEST",
+				"TEST_DURATION"
+			],
+			[
+				"fra",
+				"frameCount"
+			],
+			[
+				"Pip",
+				"pipelineID"
+			],
+			[
+				"fence",
+				"fenceMemory"
+			],
+			[
+				"read",
+				"readAmount"
+			],
+			[
+				"IEFi",
+				"IEFileErrorType"
+			],
+			[
+				"IEFile",
+				"IE_FILE_EXISTS"
+			],
+			[
+				"IEFl",
+				"IEFileErrorType"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"IESha",
+				"IEShareTypeToLinux"
+			],
+			[
+				"Lin",
+				"LinuxErrorToIE"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"L",
+				"LIBS"
+			],
+			[
+				"pro",
+				"PROJECT_NAME"
+			],
+			[
+				"IE_TES",
+				"IE_TEST_LIB"
+			],
+			[
+				"LIBRAR",
+				"LIBRARY_INCLUDE_DEBUG"
+			],
+			[
+				"IE_TEST_L",
+				"IE_TEST_LIB_FOLDER"
+			],
+			[
+				"PROJECT",
+				"PROJECT_DEPENDENCIES_DEBUG"
+			],
+			[
+				"IER",
+				"IE_RELEASE_CONF"
+			],
+			[
+				"IE_D",
+				"IE_DEBUG_CONF"
+			],
+			[
+				"CXX_FLAG",
+				"CXX_FLAGS_RELEASE"
+			],
+			[
+				"CXX",
+				"CXX_PCH_FILTER"
+			],
+			[
+				"std",
+				"stdafx"
+			],
+			[
+				"R",
+				"RELEASE_PCH"
+			],
+			[
+				"dir",
+				"dirRelease"
+			],
+			[
+				"MAKE",
+				"MAKECMDGOALS"
+			],
+			[
+				"Pro",
+				"PROJECT_OUTPUT"
+			],
+			[
+				"PR",
+				"PROJECT_NAME"
+			],
+			[
+				"PROJECT_",
+				"PROJECT_SRC_PATH"
+			],
+			[
+				"IEB",
+				"IE_BIN_FOLDER"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "IndiEngine",
+	"command_palette":
+	{
+		"height": 85.0,
+		"selected_items":
+		[
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Build: ",
+				"Build: Debug"
+			],
+			[
+				"Build: P",
+				"Build: Purge"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Build: All",
+				"Build: All"
+			],
+			[
+				"per",
+				"Perforce: Checkout"
+			],
+			[
+				"Build:  D",
+				"Build: Debug"
+			],
+			[
+				"Build: D",
+				"Build: Debug"
+			],
+			[
+				"Build: De",
+				"Build: Debug"
+			],
+			[
+				"Build: Clean",
+				"Build: Clean"
+			],
+			[
+				"Build: Deb",
+				"Build: Debug"
+			],
+			[
+				"Build: Debug",
+				"Build: Debug"
+			],
+			[
+				"Build: debu",
+				"Build: Debug"
+			],
+			[
+				"Build: DEb",
+				"Build: Debug"
+			],
+			[
+				"Build: Purge",
+				"Build: Purge"
+			],
+			[
+				"shell",
+				"Shell Command"
+			],
+			[
+				"insat",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"shell ",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Stop Debugging"
+			],
+			[
+				"gdb sett",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"start",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"Debug",
+				"Build: Debug"
+			],
+			[
+				"Build",
+				"Build: All"
+			],
+			[
+				"",
+				"Build: Purge"
+			],
+			[
+				"B",
+				"Build: Debug"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/GitHub/IndiEngine/Build/Linux/IEFileLoaders/IEFileLoaders.make",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IEUtility/IEFile.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IEUtility/IEFileLINUX.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IEUtility/IEFile.h",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IEUtility/IEFileWIN32.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Build/Linux/IEUtility/IEUtility.make",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Test/Build/Linux/TestIEUtility/TestIEUtility.make",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Build/Linux/RunTest.py",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Test/Source/TestIERendererGL/TestComputeShader.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Test/Build/Linux/TestIERendererGL/TestIERendererGL.make",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Test/Source/DebugExecutable/main.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Test/Source/TestIEInputGeneric/TestPrintMouse.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Test/Source/TestIEInputGeneric/TestPrintKeys.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Test/Source/TestIERendererGL/TestShaders.h",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Test/Build/Linux/TestIERendererGL/Test/Source/TestIEInputLINUX/TestIEKeyboardLINUX.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IESystem/TemplateInstances.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IERendererGL/IEVertexGL.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IERendererGL/IETextureGL.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IERenderer/IEGPUProcessor.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IEInputLINUX/IEInputLINUX.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/DebugExecutable/main.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IERendererGL/IEFramebufferGL.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Build/Linux/IndiEngine.make",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Build/Linux/IESystem/IESystem.make",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Build/Source/IEUtility/IEStackString.hpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Build/Linux/DebugExecutable/DebugExecutable.make",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IEUtility/IERandom.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Build/Linux/IERendererGL/IERendererGL.make",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/IESystem/IESystem.h",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Build/Linux/IndiEngine.sublime-project",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Test/Build/Source/IERendererGL/IEFramebufferGL.cpp",
+		"/home/yalciner/Perforce/IndiEngine_Laptop_Ubuntu/Source/DebugExe/main.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInput/Source/IEInputLINUX/IEInputLINUX.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputLINUX/IEInputLINUX.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputLINUX/IEMouseLINUX.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInput/IEInputDefinitions.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputLINUX/IEInputLINUX.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEUtility/IEClassList.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputLINUX/IEMouseLINUX.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputLINUX/IEKeyboardLINUX.h",
+		"/usr/include/X11/keysymdef.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputLINUX/IEKeyboardLINUX.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIEInputGeneric/TestPrintKeys.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIEInputLINUX/TestAll.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIEInputLINUX/TestIEKeyboardLINUX.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIEInputLINUX/TestIEMouseLINUX.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Build/Linux/IETests.make",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIEInputWIN32/TestIEKeyboardWIN32.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Build/Linux/TestIEInputGeneric/TestIEInputGeneric.make",
+		"/home/yalciner/Desktop/IndiEngine/Test/Build/Linux/TestIEInputLINUX/TestIEInputLINUX.make",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIEInputGeneric/TestAll.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIEUtility/TestAll.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIERendererGL/TestAll.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIEInputWIN32/TestAll.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Build/Linux/TestIERendererGL/TestIERendererGL.make",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIEInputGeneric/TestPrintMouse.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputWIN32/IEMouseWIN32.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/RunTest.py",
+		"/home/yalciner/Desktop/IndiEngine/Source/DebugExecutable/main.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IESystem/IESystemLINUXGL.hpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputWIN32/IEKeyboardWIN32.cpp",
+		"/usr/include/X11/extensions/XInput2.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputWIN32/IEInputWIN32.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInput/IEInput.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputLINUX/IEInputLINUXDLL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IESystem/IESystem.h",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/DebugExecutable/DebugExecutable.make",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/IESystem/IESystem.make",
+		"/home/yalciner/Desktop/IndiEngine/Source/IESystem/IESystemWINGL.hpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEUtility/IEMacros.h",
+		"/usr/include/X11/extensions/XI2.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputWIN32/IEMouseWIN32.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputWIN32/IEKeyboardWIN32.h",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/IEInputLINUX/IEInputLINUX.make",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputLINUX/IEInputLINUXDLL.h",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/IndiEngine.make",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputWIN32/IEInputWIN32DLL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputWIN32/IEInputWIN32DLL.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IERendererGLDLL.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInput/IEInput.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEInputWIN32/IEInputWIN32.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IEGPUMemory.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEGPUProcessorGL.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IEGPUThread.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IEGPUProcessor.h",
+		"/home/yalciner/Desktop/IndiEngine/Test/Source/TestIERendererGL/TestTriangleGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IEGPUMemory.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEWindowGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IEGPUProcessor.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/RunTest.sh",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEGPUMemoryGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEGPUProcessorGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/IndiEngine.sublime-project",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEGPUBufferGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IESystem/IESystem.hpp",
+		"/home/yalciner/Desktop/IndiEngine/Test/Build/Linux/TestIEUtility/TestIEUtility.make",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/IERendererGL/IERendererGL.make",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/Definitions.make",
+		"/home/yalciner/Desktop/IndiEngine/Test/Build/Windows/TestIERendererGL/TestIERendererGL.vcxproj",
+		"/home/yalciner/Desktop/IndiEngine/Test/Build/Windows/TestIEInputWIN32/TestIEInputWIN32.vcxproj",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/IEInput/IEInput.make",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/IERenderer/IERenderer.make",
+		"/home/yalciner/Desktop/IndiEngine/Build/Linux/IEUtility/IEUtility.make",
+		"/home/yalciner/Desktop/IndiEngine/Misc/Build Templates/Linux/ProjectTemplate.make",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IETextureGL.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IETextureGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEUtility/IETypes.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IEGPUBuffer.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEUtility/IEMemoryList.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/stdafx.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IERendererDefinitions.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IEGPUCapabilitiesI.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEGPUCapabilitiesGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEGPUFenceGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IESampler.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IEVertex.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEVertexGL.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IEShader.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEShaderGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERenderer/IETexture.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IESamplerGL.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEShaderGL.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEVertexGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IESamplerGL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEGPUMemoryGL.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IERendererGLDLL.cpp",
+		"/home/yalciner/Desktop/IndiEngine/Source/IERendererGL/IEGPUBufferGL.h",
+		"/home/yalciner/Desktop/IndiEngine/Source/IEUtility/IEList.hpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lld",
+			"XK_less",
+			"std::",
+			"IE_KEY_NP_ENTER",
+			"0xFE03",
+			"XIRaw",
+			"dpy",
+			" = {}",
+			" -",
+			"*.h",
+			"CREATE_ALWAYS",
+			"::IE_",
+			"CXX_ADDITIONAL_TEST_FLAGS",
+			"		\n",
+			"\"Assertion failed.*\"",
+			"MAKECMDGOALS",
+			"11",
+			"-\n",
+			")\n",
+			"::strnlen",
+			"std::strnlen",
+			"strnlen",
+			"strlen",
+			"func",
+			"dataVector",
+			"lock(mutex)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"::",
+			"IE_TEST_ASSERT_FAIL_STRING",
+			"strnlen",
+			"::strnlen",
+			"std::strnlen",
+			"std::strlen",
+			"this->dataVector",
+			"lock(this->mutex)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.601574803149,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.ShellCommand":
+	{
+		"height": 110.0
+	},
+	"output.exec":
+	{
+		"height": 314.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "IndiEngine.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Perforce/IndiEngine_Laptop_Ubuntu/Build/Linux/IndiEngine.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

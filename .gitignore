@@ -4,10 +4,17 @@
 *.o
 *.obj
 
+# Precompiled Headers
+*.gch
+*.pch
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
+
+# Fortran module files
+*.mod
 
 # Compiled Static libraries
 *.lai
@@ -19,5 +26,36 @@
 *.exe
 *.out
 *.app
-*.test
-*.exec
+
+# Windows Intellisense Database and 
+# Solution User Datafile
+*.sdf
+*.opensdf
+*.suo
+*.opendb
+
+# Binaries
+Bin/
+
+# Keep Provided Libraries
+!Lib/**/*.lai
+!Lib/**/*.la
+!Lib/**/*.a
+!Lib/**/*.lib
+
+!Lib/**/*.so
+!Lib/**/*.dvlib
+!Lib/**/*.dll
+
+!Lib/**/*.pch
+
+!Test/Lib/**/*.lai
+!Test/Lib/**/*.la
+!Test/Lib/**/*.a
+!Test/Lib/**/*.lib
+
+!Test/Lib/**/*.so
+!Test/Lib/**/*.dvlib
+!Test/Lib/**/*.dll
+
+!Test/Lib/**/*.pch

@@ -1,0 +1,87 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "Projects",
+			"path": "../../Build/Linux"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Test Projects",
+			"path": "../../Test/Build/Linux"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "IndiEngine",
+			"file_exclude_patterns": ["*.txt"],
+			"path": "../../Source"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Test",
+			"path": "../../Test/Source"
+		}
+	],
+	"build_systems":
+    [
+        {
+            "name": "IndiEngine",
+			"cmd": ["/usr/bin/make",
+					"--no-print-directory",
+					"--makefile=${project_path}/IndiEngine.make",
+					"--directory=${project_path}",
+					"allDebug"],
+			"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+			"variants": [{
+							"name": "All",
+				          	"cmd": ["/usr/bin/make", 
+							 		"--no-print-directory",
+							 		"--makefile=${project_path}/IndiEngine.make",
+							 		"--directory=${project_path}",
+							 		"all"],
+						 },
+					     { 
+					       	"name": "Debug",
+				          	"cmd": ["/usr/bin/make", 
+							 		"--no-print-directory",
+							 		"--makefile=${project_path}/IndiEngine.make",
+							 		"--directory=${project_path}",
+							 		"allDebug"],
+					     },
+					     { 
+					  		"name": "Release",
+				          	"cmd": ["/usr/bin/make", 
+							 		"--no-print-directory",
+							 		"--makefile=${project_path}/IndiEngine.make",
+							 		"--directory=${project_path}",
+							 		"allRelease"],
+					     },
+					     { 
+					  		"name": "Clean",
+				          	"cmd": ["/usr/bin/make", 
+							 		"--no-print-directory",
+							 		"--makefile=${project_path}/IndiEngine.make",
+							 		"--directory=${project_path}",
+							 		"clean"],
+					     },
+					     { 
+					  		"name": "Purge",
+				          	"cmd": ["/usr/bin/make", 
+							 		"--no-print-directory",
+							 		"--makefile=${project_path}/IndiEngine.make",
+							 		"--directory=${project_path}",
+							 		"purge"],
+					     }]
+        }],
+        "settings":
+        {
+        	// DEBUG EXECUTABLE
+        	//"sublimegdb_workingdir": "${project_path:../../WorkingDirectory}",
+        	//"sublimegdb_commandline": "gdb --interpreter=mi ../../Bin/Linux/Debug/DebugExecutable.exec}"
+
+        	// IE RENDERERERGL TEST
+        	"sublimegdb_workingdir": "${project_path:../../Test/WorkingDirectory}",
+        	"sublimegdb_commandline": "gdb --interpreter=mi ../../Test/Bin/Linux/Debug/TestIERendererGL.test"
+		}
+}

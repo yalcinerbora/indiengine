@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEEventSystem.h" />
+    <ClInclude Include="..\..\..\Src\IEUtility\IEMacros.h" />
+    <ClInclude Include="..\..\..\Src\IEUtility\IEMetaProgramming.h" />
+    <ClInclude Include="..\..\..\Src\IEUtility\IERandom.h" />
+    <ClInclude Include="..\..\..\Src\IEUtility\IESystemDefinitions.h" />
+    <ClInclude Include="..\..\..\Src\IEUtility\IETimer.h" />
+    <ClInclude Include="..\..\..\Src\IEUtility\IEThread.h">
+      <Filter>Threading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEWorker.h">
+      <Filter>Threading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEMath.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEMath.hpp">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEMatrix3x3.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEMatrix4x4.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEVector3.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEVector4.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEBitManipulation.hpp">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEBitManipulation.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEFile.h">
+      <Filter>FileI-O</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEFileHandle.h">
+      <Filter>FileI-O</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEJobExecutor.hpp">
+      <Filter>Threading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEJobExecutor.h">
+      <Filter>Threading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEQuaternion.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEStackString.h">
+      <Filter>Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEStackString.hpp">
+      <Filter>Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEMallocatorWIN32.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEMallocator.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEMemoryAllocator.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Src\IEUtility\IEFunctions.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\Src\IEUtility\IERandom.cpp" />
+    <ClCompile Include="..\..\..\Src\IEUtility\IETimer.cpp" />
+    <ClCompile Include="..\..\..\Src\IEUtility\IEMatrix3x3.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Src\IEUtility\IEMatrix4x4.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Src\IEUtility\IEVector3.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Src\IEUtility\IEVector4.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Src\IEUtility\IEFile.cpp">
+      <Filter>FileI-O</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Src\IEUtility\IEFileWIN32.cpp">
+      <Filter>FileI-O</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Src\IEUtility\IEQuaternion.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Src\IEUtility\IEWorker.cpp">
+      <Filter>Threading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Src\IEUtility\TemplateInstances.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Threading">
+      <UniqueIdentifier>{f367d630-3172-46ac-92a2-6c463ad322c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Math">
+      <UniqueIdentifier>{e5970d52-e3a1-4846-ab7d-0a39b4e9df3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Containers">
+      <UniqueIdentifier>{8756e516-c8a5-46dd-b736-56912f3c277a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FileI-O">
+      <UniqueIdentifier>{d140f161-d018-472c-9f58-44828af8953f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Memory">
+      <UniqueIdentifier>{4ef1d3a1-9f51-4dc7-af4c-9026e339435b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
